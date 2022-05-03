@@ -10,3 +10,14 @@
 #### Ahmad Sallamh
 
 #### Mohamed Shqieart ( this github account owner ) 
+
+
+
+##### _____________________________________________________________
+
+
+###### the GUI is done using javaFx scnen builder 
+
+###### several libraries are requiered in order of running the program
+
+###### java mysql connecter library is requiered !!!
